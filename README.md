@@ -22,3 +22,5 @@ PLKT is an interpretable Knowledge Tracing (KT) framework that reframes student 
 - Python >= 3.8
 - PyTorch >= 1.12
 - numpy, pandas, scikit-learn, tqdm
+
+### 🚀 Usage
