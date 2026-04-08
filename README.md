@@ -23,4 +23,23 @@ PLKT is an interpretable Knowledge Tracing (KT) framework that reframes student 
 - PyTorch >= 1.12
 - numpy, pandas, scikit-learn, tqdm
 
-### 🚀 Usage
+## 🚀 Usage
+┌── configs 
+│	├── config.py #The config
+│	├── data_config.json # Dataset parameters
+│	├── kt_config.json # Configuration of relevant model parameters
+|
+├── pykt
+│	├── datasts # Data preprocessing code
+|  ├── atdkt_dataloader.py
+|  ├── data_loader.py
+|  ├── ....
+|
+├── models # Model code
+|  ├── akt.py
+|  ├── atkt.py
+|  ├── ....
+|
+├── wandb_ptkt_train.py
+|
+└── wandb_train.py # Training
