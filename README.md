@@ -24,6 +24,7 @@ PLKT is an interpretable Knowledge Tracing (KT) framework that reframes student 
 - numpy, pandas, scikit-learn, tqdm
 
 ## 🚀 Usage
+---
 ┌── configs 
 │	├── config.py #The config
 │	├── data_config.json # Dataset parameters
