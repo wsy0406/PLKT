@@ -227,7 +227,7 @@ if __name__ == "__main__":
     parser.add_argument('--attention_weight', type=float, default=0.5)
 
     parser.add_argument("--use_doa", type=int, default=1)
-    parser.add_argument("--q_matrix_path",type=str,default="/home/user/data/bridge2algebra2006/q_matrix.npy")
+    parser.add_argument("--q_matrix_path",type=str,default="/home/user/data/dataset_name/q_matrix.npy")
     parser.add_argument("--doa_num_students", type=int, default=1000)
     parser.add_argument("--doa_seeds", type=str, default="2026,2027,2028")
 
