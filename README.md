@@ -41,7 +41,7 @@ PLKT is an interpretable Knowledge Tracing (KT) framework that reframes student 
 |  ├── atkt.py
 |  ├── ....
 |
-├── wandb_ptkt_train.py
+├── wandb_plkt_train.py
 |
 └── wandb_train.py # Training
 
