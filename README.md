@@ -41,3 +41,11 @@ pykt
 ```
 
 ---
+
+## Reproducing
+### Run wandb_plkt_train.py
+Having installed all necessary packages, you can run wandb_plt_train.py using
+```text
+python wandb_plkt_train.py --dataset_name assist2009 --device cuda:0 --pattern_type multi_level_bias --emb_type beta --pattern_level 5 --bias_weight 0.7 --learning_rate 0.0001
+```
+
