@@ -10,10 +10,6 @@ PLKT is an interpretable Knowledge Tracing (KT) framework that reframes student 
 - 🧠 **Multi-level Pattern Extraction**: We propose a multi-level pattern extraction mechanism to explicitly capture learning behaviors at different temporal granularities.
 ---
 
-## 📦 Repository Structure
-
-
----
 
 ## 🔧 Installation
 
@@ -23,7 +19,7 @@ PLKT is an interpretable Knowledge Tracing (KT) framework that reframes student 
 - PyTorch >= 1.12
 - numpy, pandas, scikit-learn, tqdm
 
-## 🚀 Usage
+## 📦 Repository Structure
 
 ```text
 configs
